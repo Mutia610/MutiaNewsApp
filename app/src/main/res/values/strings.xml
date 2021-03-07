@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MutiaNewsApp</string>
+    <string name="name">News App</string>
+    <string name="kategori">Kategori Berita</string>
+</resources>
